@@ -1,0 +1,141 @@
+body{
+    background-image:url(../img/FONDO/Concrete-4556.jpg);
+    }
+
+header{
+    width: 100%;
+    height: 350px;
+    }
+
+.logo{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    height: 300px;
+     }
+
+#logo-calavera{
+    margin-top: 20px;
+    width:300px;
+    height:300px;
+    border-radius: 180px;
+         
+    }
+
+.nav-link:hover{
+    
+    font-family: 'Rampart One', cursive;
+}
+
+.barra{
+    
+    margin-top: 45px;
+
+      }
+
+.container{
+    height: 800px;
+    margin-top: 180px;
+          }
+
+.Iconos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Facebook{
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+}
+
+.Instagram{
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+}
+
+.Gmail{
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+
+}
+
+.Maps{
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    
+}
+
+
+h5{
+    text-align: center;
+}
+
+.Pie{
+    display:flex;
+    justify-content: space-around;
+    height: 30px;
+
+    
+}
+
+.logo-pie{
+    border-radius:80px;
+    width:30px;
+    height: 30px;
+}
+
+.a-ingresar-aqui{
+    color: black;
+    text-decoration:none;
+}
+
+.Tipografia{
+    font-family: 'Rampart One', cursive;
+   
+}
+
+.Nov-Nues{
+    font-size: 35px;
+}
+
+.Redes{
+        font-size: 30px;
+
+}
+
+.Tipografia2{
+    color: rgb(3, 3, 3);
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+.Tipografia3{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Russo One', sans-serif;
+    color: rgb(3, 3, 3);
+    
+}
+
+.top{
+    font-size:35px;
+}
+
+.texto{
+    font-size:24px;
+    text-align: justify;
+}
+
+.Black-Hawk{
+    
+    text-decoration: underline;
+}
+
+
